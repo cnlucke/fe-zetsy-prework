@@ -22,8 +22,9 @@ body {
 
 /* Write all remaining styles here */
 h1 {
-  font-size: 2em;
+  font-size: 3em;
 }
+
 h1, h2, h3 {
   font-family: Baskerville;
   color: rgb(155,171,166);
