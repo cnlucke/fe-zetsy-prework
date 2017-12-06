@@ -51,5 +51,5 @@ footer {
 }
 
 a:hover {
-  background-color: rgb(115,124,121)
+  border:1px solid rgb(115,124,121);
 }
