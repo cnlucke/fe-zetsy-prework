@@ -31,3 +31,7 @@ img {
   border-width: thick;
   background-color: rgb(155,171,166);
 }
+
+footer {
+    text-align: right;
+}
