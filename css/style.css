@@ -23,16 +23,14 @@ body {
 /* Write all remaining styles here */
 h1 {
   font-size: 3em;
+  font-family: Baskerville;
+  color: rgb(155,171,166);
+
 }
 
 h2 {
   font-size: 2em;
   color: rgb(121,128,117);
-}
-
-h1, h2, h3 {
-  font-family: Baskerville;
-  color: rgb(155,171,166);
 }
 
 img {
