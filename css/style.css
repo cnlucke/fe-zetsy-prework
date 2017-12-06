@@ -21,7 +21,7 @@ body {
 }
 
 /* Write all remaining styles here */
-h {
+[att^=h] {
   font-family: Baskerville;
   color: rgb(155,171,166);
 }
