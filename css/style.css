@@ -43,6 +43,7 @@ img {
 
 #about p {
   color: rgb(112,111,112)
+  font-weight: bold;
 }
 
 footer {
