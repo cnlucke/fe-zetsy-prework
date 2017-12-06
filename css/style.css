@@ -27,6 +27,7 @@ h1 {
   color: rgb(155,171,166);
   font-weight: normal;
   line-height: 10px;
+  max-height: 100%
 }
 
 h2 {
