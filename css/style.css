@@ -49,3 +49,7 @@ img {
 footer {
     text-align: right;
 }
+
+a:hover {
+  color: rgb(115,124,121)
+}
