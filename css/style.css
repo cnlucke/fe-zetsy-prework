@@ -40,6 +40,11 @@ img {
   border-width: thick;
 }
 
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
+
 p {
   color: rgb(255,0,0)
   font-weight: bold;
