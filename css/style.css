@@ -1,8 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-<link rel="stylesheet" href="fonts/Baskerville.ttc" type="text/css" charset="utf-8" />
-
+@font-face {
+    font-family: Baskerville;
+    src: fonts/Baskerville.ttc;
+}
 /*////////// Global Styles //////////*/
 
 body {
