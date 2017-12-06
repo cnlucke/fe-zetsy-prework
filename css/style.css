@@ -26,5 +26,6 @@ h {
 }
 img {
   border:1px solid #021a40;
+  border-width: thick;
   background-color:#ff0;
 }
