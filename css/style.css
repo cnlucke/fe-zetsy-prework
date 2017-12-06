@@ -60,3 +60,8 @@ footer {
   border:1px solid rgb(115,124,121);
   border-width: thick;
 }
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
