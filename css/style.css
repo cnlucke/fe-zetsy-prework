@@ -50,6 +50,6 @@ footer {
     text-align: right;
 }
 
-a:hover {
+#press a:hover img {
   border:1px solid rgb(115,124,121);
 }
