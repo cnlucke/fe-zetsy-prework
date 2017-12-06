@@ -21,13 +21,14 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
+header {
   font-size: 5em;
   font-family: Baskerville;
-  color: rgb(155,171,166);
+  color: rgb(152,173,166);
   font-weight: normal;
   line-height: 10px;
   display: inline-block
+  text-decoration: none;
 }
 
 h2 {
