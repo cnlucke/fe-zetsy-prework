@@ -25,7 +25,7 @@ h {
   font-family: Baskerville;
 }
 img {
-  border:1px solid #021a40;
+  border:1px solid rgb(155,171,166);
   border-width: thick;
-  background-color:#ff0;
+  background-color: rgb(155,171,166);
 }
