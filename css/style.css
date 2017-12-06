@@ -39,6 +39,10 @@ img {
   background-color: rgb(155,171,166);
 }
 
+#about p {
+  color: rgb(112,111,112)
+}
+
 footer {
     text-align: right;
 }
