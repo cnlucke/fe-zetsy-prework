@@ -52,4 +52,5 @@ footer {
 
 #press a:hover img {
   border:1px solid rgb(115,124,121);
+  border-width: thick;
 }
